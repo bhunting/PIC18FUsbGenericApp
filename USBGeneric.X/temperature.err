@@ -1,0 +1,1 @@
+Error[1099] C:\dev\PicGenericUSB\temperature.c 259 : "Unknown temperature acquire configuration.  See AcquireTemperature function in "../temperature.c""

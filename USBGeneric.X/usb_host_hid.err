@@ -1,0 +1,4 @@
+Error[1027] C:\apps\Microchip\mla\Microchip Solutions v2010-08-04\Microchip\USB\HID Host Driver\usb_host_hid.c 95 : unable to locate 'HardwareProfile.h'
+Error[1027] C:\apps\Microchip\mla\Microchip Solutions v2010-08-04\Microchip\USB\HID Host Driver\usb_host_hid.c 96 : unable to locate 'usb_config.h'
+Error[1027] C:\apps\Microchip\mla\Microchip Solutions v2010-08-04\Microchip\Include\USB\usb.h 113 : unable to locate 'usb_config.h'
+Error[1099] C:\apps\Microchip\mla\Microchip Solutions v2010-08-04\Microchip\Include\usb\usb_common.h 508 : "Application must define support mode in usb_config.h"
